@@ -3,5 +3,21 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('home');
+})->name('home');
+
+Route::get('/about', function () {
+    return view('about', ['nama' => 'Elvina Angelina']);
+})->name('about');
+
+Route::get('/blog', function () {
+    return view('blog');
+})->name('blog');
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
+
+Route::get('/projects', function () {
+    return view('projects');
+})->name('projects');
