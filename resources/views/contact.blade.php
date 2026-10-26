@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,6 +31,7 @@
                     <li><a href="/about" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">About</a></li>
                     <li><a href="/blog" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">Blog</a></li>
                     <li><a href="/contact" aria-current="page" class="text-blue-700 dark:text-blue-400 rounded">Contact</a></li>
+                    <li><a href="/projects" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">Projects</a></li>
                 </ul>
             </nav>
 
@@ -80,8 +81,8 @@
                     <section aria-labelledby="direct-title">
                         <h2 id="direct-title" class="text-sm font-bold uppercase text-slate-600 dark:text-slate-400">Direct Contact</h2>
                         <address class="mt-4 space-y-2 not-italic text-lg">
-                            <a href="mailto:angelinaelvina1@gmail.com" class="block hover:text-blue-700 dark:hover:text-blue-400 transition-all">
-                                angelinaelvina1@gmail.com
+                            <a href="mailto:elvina.angelina01@gmail.com" class="block hover:text-blue-700 dark:hover:text-blue-400 transition-all">
+                                elvina.angelina01@gmail.com
                             </a>
                             <a href="https://wa.me/6289507333708" target="_blank" rel="noopener noreferrer"
                                 class="block hover:text-blue-700 dark:hover:text-blue-400 transition-all">
@@ -134,6 +135,7 @@
                         <li><a href="/about" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">About</a></li>
                         <li><a href="/blog" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Blog</a></li>
                         <li><a href="/contact" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Contact</a></li>
+                        <li><a href="/projects" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Projects</a></li>
                     </ul>
                 </nav>
 

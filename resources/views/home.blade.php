@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,6 +31,7 @@
                     <li><a href="/about" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">About</a></li>
                     <li><a href="/blog" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">Blog</a></li>
                     <li><a href="/contact" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">Contact</a></li>
+                    <li><a href="/projects" class="hover:text-blue-700 dark:hover:text-blue-400 rounded">Projects</a></li>
                 </ul>
             </nav>
 
@@ -141,6 +142,7 @@
                         <li><a href="/about" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">About</a></li>
                         <li><a href="/blog" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Blog</a></li>
                         <li><a href="/contact" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Contact</a></li>
+                        <li><a href="/projects" class="hover:text-slate-900 dark:hover:text-slate-50 rounded transition-all">Projects</a></li>
                     </ul>
                 </nav>
 
